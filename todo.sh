@@ -1,0 +1,21 @@
+yo reveal
+yo reveal:slide "Space Apps"
+yo reveal:slide "About Me"
+yo reveal:slide "Hackathon"
+yo reveal:slide "Actividad Social"
+yo reveal:slide "Escuchar"
+yo reveal:slide "Trabajar Duro"
+yo reveal:slide "Recursos Limitados"
+yo reveal:slide "Ley del Menor Esfuerzo"
+yo reveal:slide "Tiempo Pomodoro"
+yo reveal:slide "Divertirse"
+yo reveal:slide "Nunca Rendirse"
+yo reveal:slide "Github"
+yo reveal:slide "Ser Ordenado"
+yo reveal:slide "Contencion"
+yo reveal:slide "Viajar"
+yo reveal:slide "Git Hub Github"
+yo reveal:slide "Aprender Interactivo"
+yo reveal:slide "Thanks"
+
+
